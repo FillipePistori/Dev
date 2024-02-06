@@ -1,2 +1,3 @@
-# Dev
- Developer
+# Estudos
+ 
+ Repositório para registros dos meus estudos.
